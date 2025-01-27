@@ -10,6 +10,6 @@ Features:
 
 # Screenshots
 
-![Google search example](./media/screenshots/google.png)
-![Google Images example](./media/screenshots/googleImages.png)
-![New York Times example](./media/screenshots/nytimes.png)
+![Google search example](./media/google.png)
+![Google Images example](./media/googleImages.png)
+![New York Times example](./media/nytimes.png)
