@@ -1,12 +1,9 @@
 ***
 
 <h1 align="center">
-    <table>
-    <tr>
-        <td><<img src="./src/icons/logo.svg" height="38" width="38" style="padding-right: 10px"></td>
-        <td valign="middle">Image Magnifier</td>
-    </tr>
-    </table>
+<img src="./src/icons/logo.svg" height="38" width="38">
+&nbsp;&nbsp;&nbsp;&nbsp;
+Image Magnifier
 </h1>
 
 ***
