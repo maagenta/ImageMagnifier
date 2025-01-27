@@ -1,9 +1,7 @@
 ***
 
 <h1 align="center">
-<sub>
-<img src="./src/icons/logo.svg" height="38" width="38">
-</sub>
+<img src="./src/icons/logo.svg" height="38" width="38" style="padding-right: 10px">
 Image Magnifier
 </h1>
 
