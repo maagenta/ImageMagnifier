@@ -1,5 +1,3 @@
-***
-
 <h1 align="center">
 <img src="./src/icons/logo.svg" height="38" width="38">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -7,7 +5,7 @@ Image Magnifier
 </h1>
 
 ***
-
+***
 
 # Description
 
