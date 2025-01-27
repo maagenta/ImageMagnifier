@@ -5,7 +5,6 @@ Image Magnifier
 </h1>
 
 ***
-***
 
 # Description
 
