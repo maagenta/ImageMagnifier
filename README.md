@@ -9,3 +9,7 @@ Features:
 - Works with both static and dynamic content
 
 # Screenshots
+
+![Google search example](./media/screenshots/google.png)
+![Google Images example](./media/screenshots/googleImages.png)
+![New York Times example](./media/screenshots/nytimes.png)
