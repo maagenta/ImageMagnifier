@@ -1,3 +1,15 @@
+***
+
+<h1 align="center">
+<sub>
+<img src="./src/icons/logo.svg" height="38" width="38">
+</sub>
+Image Magnifier
+</h1>
+
+***
+
+
 # Description
 
 Instantly enlarge images on any website using the 'Z' key + mouse click shortcut. Perfect for examining details in photos, diagrams, and artwork without leaving the page.

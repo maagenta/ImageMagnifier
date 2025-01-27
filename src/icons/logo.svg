@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 550 550"
    id="svg350"
-   sodipodi:docname="DALL·E 2025-01-24 22.57.34 - A minimalist logo for a browser extension named 'Enlarge Web Images'. The design features a stylized magnifying glass enlarging a web image. The backg.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    width="550"
    height="550"
@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.99"
-     inkscape:cx="279.29293"
-     inkscape:cy="287.87879"
+     inkscape:zoom="1.2930976"
+     inkscape:cx="203.77425"
+     inkscape:cy="145.38732"
      inkscape:window-width="1680"
      inkscape:window-height="813"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer4" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -376,18 +376,35 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     transform="translate(-71.611332,-46.878457)">
+     transform="translate(-71.611332,-46.878457)"
+     style="fill:#ffffff">
     <path
        fill="#fbfefe"
        d="m 576.06422,530.62793 -1.3,8.49 a 0.86,0.87 5.9 0 1 -0.9,0.74 q -9.27,-0.52 -15.61,-4.47 c -5.33,-3.32 -8.57,-5.42 -13.2,-9.58 -7.76,-6.96 -15.58,-14.56 -24.25,-21.84 q -8.37,-7.03 -11.04,-9.89 c -8.35,-8.96 -14.13,-15.28 -22.47,-21.43 -4.83,-3.55 -7.16,-6.18 -9.06,-11.31 q -0.18,-0.49 0.17,-0.87 l 12.99,-13.85 q 0.87,-0.88 2.15,-1.31 c 2.19,-0.73 5.73,2 7.16,3.38 q 7.58,7.37 61.77,60.31 c 2.82,2.76 5.39,5.75 7.94,8.67 q 4.91,5.6 5.65,12.96 z"
-       id="path332-6" />
+       id="path332-6"
+       style="fill:#ffffff" />
     <path
        fill="#edf9fb"
        d="m 491.39422,446.61793 -12.99,13.85 q -0.35,0.38 -0.17,0.87 c 1.9,5.13 4.23,7.76 9.06,11.31 8.34,6.15 14.12,12.47 22.47,21.43 q 2.67,2.86 11.04,9.89 c 8.67,7.28 16.49,14.88 24.25,21.84 4.63,4.16 7.87,6.26 13.2,9.58 q 6.34,3.95 15.61,4.47 a 0.86,0.87 5.9 0 0 0.9,-0.74 l 1.3,-8.49 q 1.11,6.32 -0.84,12.93 -7.29,10.98 -20.88,10.15 c -3.54,-0.21 -6.77,-2.03 -9.22,-4.31 -17.82,-16.6 -32.79,-32.77 -51.99,-51.48 -6.45,-6.29 -13.96,-14.47 -21.25,-21.37 l -4.88,-3.8 a 1.75,1.75 0 0 1 -0.1,-2.68 q 2.63,-2.38 3.94,-4.93 9.38,-10.01 20.55,-18.52 z"
-       id="path333-5" />
+       id="path333-5"
+       style="fill:#ffffff" />
     <path
        fill="#a9c8d0"
        d="m 471.88422,476.54793 c 7.29,6.9 14.8,15.08 21.25,21.37 19.2,18.71 34.17,34.88 51.99,51.48 2.45,2.28 5.68,4.1 9.22,4.31 q 13.59,0.83 20.88,-10.15 -2.27,7.35 -7.25,12.05 -2.15,2.03 -8.36,5.88 c -9.04,5.62 -24.76,7.55 -32.77,-0.62 q -28.96,-29.54 -32.39,-32.91 -14.97,-14.71 -23.63,-23.84 c -3.26,-3.43 -6.63,-6.4 -10.05,-9.5 -1,-3.89 -2.81,-7.23 0.22,-10.94 q 4.2,-5.13 10.89,-7.13 z"
-       id="path336-5" />
+       id="path336-5"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3">
+    <rect
+       style="fill:#ffffff;stroke-width:0.866025"
+       id="rect1"
+       width="139.20062"
+       height="32.480152"
+       x="54.133575"
+       y="32.480145"
+       rx="58.000267" />
   </g>
 </svg>
