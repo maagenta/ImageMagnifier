@@ -4,11 +4,9 @@
 Image Magnifier
 </h1>
 
-***
-
 Image Magnifier is a web browser extension that instantly enlarges images on any website using the 'Z' key + mouse click shortcut. Perfect for examining details in photos, diagrams, and artwork without leaving the page.
 
-Features:
+**Features:**
 - Universal compatibility with all websites and image types
 - No impact on page loading or performance
 - Clean, minimalist interface
