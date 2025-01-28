@@ -19,8 +19,13 @@ Image Magnifier is a web browser extension that instantly enlarges images on any
 
 ## Screenshots
 
+Magnifying the image of the Google logo:
 ![Google search example](./media/google.png)
+
+Magnifying a flower image from Google Images:
 ![Google Images example](./media/googleImages.png)
+
+Magnifying an image from New York Times:
 ![New York Times example](./media/nytimes.png)
 
 ## For Developers
